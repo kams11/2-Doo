@@ -1,0 +1,23 @@
+.maindiv {
+    background: url("https://cdn.pixabay.com/photo/2017/04/05/04/44/background-2203989_1280.jpg");
+    background-size: cover;
+}
+.contentbody {
+    padding-top: 40px;
+    width: 500px;
+    height: 96vh;
+    max-height: fit-content;
+    display: flex-inline;
+    margin-left: 32%;
+    background: rgba(245, 245, 245, 0.205);
+    
+}
+.btn {
+    margin-bottom: 1px;
+    border-radius: 20px;
+}
+.data {
+    font-weight: 700;
+    color: rgb(15, 166, 236);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}

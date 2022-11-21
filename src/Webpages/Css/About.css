@@ -1,0 +1,29 @@
+.content {
+    margin-top: -20px;
+    display: grid;
+    grid-template-columns: 50% 1fr;
+}
+.content1 {
+    margin-left: 15px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.content2>img {
+    width: 95%;
+    height: 420px;
+}
+
+.about-footer {
+    background-color: rgb(42, 20, 243);
+    height: 320px;
+}
+.bigcontent {
+    background: url("https://cdn.pixabay.com/photo/2017/04/05/04/44/background-2203989_1280.jpg");
+    background-size: cover;
+}
+hr{
+    color: orangered;
+    height: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
